@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/hs9nw5mnaytf/public_html/ZoeBoon
+    - /bin/cp index.html $DEPLOYPATH
